@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-7ff=j)e&k2vnnh^nu=nx&p4)lok=y*t!y%g%!js&b^#zlo-!n_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','powerful-reef-19002.herokuapp.com/']
+ALLOWED_HOSTS = ['localhost', 'ecommerce-123.herokuapp.com']
 
 
 # Application definition
